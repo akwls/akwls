@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&fontSize=90&text=Hajin)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&fontSize=90&text=Hajin)
 <div align="center">
   <img src="https://raw.githubusercontent.com/akwls/akwls/master/profile-summary-card-output/solarized/0-profile-details.svg" />
   <img src="https://raw.githubusercontent.com/akwls/akwls/master/profile-summary-card-output/solarized/2-most-commit-language.svg" />
