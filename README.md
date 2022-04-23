@@ -6,4 +6,5 @@
   <img src="https://raw.githubusercontent.com/akwls/akwls/master/profile-summary-card-output/solarized/3-stats.svg" />
  
   </div>
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hajin7481)](https://solved.ac/hajin7481)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hajin7481)](https://solved.ac/hajin7481)
